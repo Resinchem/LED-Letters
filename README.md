@@ -1,5 +1,5 @@
 # LED-Letters
-This repositiory contain all the 3D Printer STL files for the LED Letter project as shown via my YouTube video.
+This repositiory contain all the 3D Printer STL files for the LED Letter project as shown in my [YouTube video](https://youtu.be/JlK5LtIt_jQ).
 
 * Letters contain A-Z
 * Numbers contain 0-9
