@@ -9,3 +9,4 @@
 |Control Box|Controller box with cutouts for button and IR Receiver|
 |Control Backplate|Backplate for controller box with cutout for power wires|
 
+**Supports are needed for all listed items, except the backplates.**
