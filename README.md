@@ -10,3 +10,6 @@ This repositiory contain all the 3D Printer STL files for the LED Letter project
 You can download individual desired files from individual folders or download the full set by downloading the .zip file from the latest Release.
 
 All items were designed to be printed with PLA and were printed on an Ender3 Pro.
+
+>*If you found this project helpful, would like to say thanks or help support future development:*<br>
+>[![buy_me_a_coffee_sm](https://user-images.githubusercontent.com/55962781/159586675-7476e996-a990-4918-8825-aa6812f3ea28.jpg)](https://www.buymeacoffee.com/resinchemtech)
